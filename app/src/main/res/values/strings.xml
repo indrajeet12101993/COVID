@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">COVID-19 Tracker</string>
+    <string name="text">COVID-19 Tracker is a mobile application developed by the Indrajeet Jyoti to show the Data of all the infected people in India on basis of data provided by the Goverment of India. We are not making this app for our benifit,Just utilising our quarantine in good way and making the data easily available to people  COVID-19.</string>
+</resources>
